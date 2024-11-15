@@ -11,5 +11,3 @@
 <div align="center">
   <img src="https://github-stats.likhon.dev/api?username=sheikhlikhon&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=ffffff" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhlikhon&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=4ECDC4&currStreakNum=FFFFFF&currStreakLabel=4ECDC4" />
-</div>
