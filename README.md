@@ -13,35 +13,3 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhlikhon&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=4ECDC4&currStreakNum=FFFFFF&currStreakLabel=4ECDC4" />
 </div>
-
-### 🚀 Tech Stack
-
-```javascript
-const techStack = {
-  languages: ['JavaScript', 'TypeScript', 'Python'],
-  frontend: ['React', 'Next.js', 'TailwindCSS'],
-  backend: ['Node.js', 'Express', 'MongoDB'],
-  tools: ['Git', 'Docker', 'AWS'],
-  currently: 'Building awesome web applications'
-}
-```
-
-<div align="center">
-  <img src="snake.svg" alt="Snake animation" />
-</div>
-
-### 📊 This Week's Coding
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<div align="center">
-  <img src="profile-3d.svg" alt="3D Profile" />
-</div>
-
-<div align="center">
-  
-  ![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=sheikhlikhon&cover_image=true&theme=natemoo-re)
-  
-  <img src="https://profile-counter.glitch.me/sheikhlikhon/count.svg" />
-</div>
